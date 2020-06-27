@@ -1,0 +1,25 @@
+{
+  "Mac" : [
+    {
+      "hash" : "a8d9a2fc45afe7884d704214ff2ad781ce1c43fe3ee4cf7bf7fd0dfe89fab161",
+      "name" : "MidiParser",
+      "linking" : "dynamic",
+      "swiftToolchainVersion" : "5.2.4 (swiftlang-1103.0.32.9 clang-1103.0.32.53)"
+    }
+  ],
+  "watchOS" : [
+
+  ],
+  "tvOS" : [
+
+  ],
+  "commitish" : "0.2",
+  "iOS" : [
+    {
+      "hash" : "a5c95f73a093ed27de33ea8b324c94f3f41008d1b5f24ce549612b40bf1a1e77",
+      "name" : "MidiParser",
+      "linking" : "dynamic",
+      "swiftToolchainVersion" : "5.2.4 (swiftlang-1103.0.32.9 clang-1103.0.32.53)"
+    }
+  ]
+}
